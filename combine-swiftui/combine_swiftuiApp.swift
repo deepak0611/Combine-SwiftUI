@@ -11,7 +11,7 @@ import SwiftUI
 struct combine_swiftuiApp: App {
     var body: some Scene {
         WindowGroup {
-            SubscriberBootcamp()
+            DownloadWithCombine()
         }
     }
 }

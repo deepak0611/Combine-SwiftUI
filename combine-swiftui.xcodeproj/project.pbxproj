@@ -12,6 +12,7 @@
 		3B486D052D26DE7F00FB0ECF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3B486D042D26DE7F00FB0ECF /* Assets.xcassets */; };
 		3B486D082D26DE7F00FB0ECF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3B486D072D26DE7F00FB0ECF /* Preview Assets.xcassets */; };
 		3B486D0F2D26DEE600FB0ECF /* SubscriberBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B486D0E2D26DEE600FB0ECF /* SubscriberBootcamp.swift */; };
+		3B486D112D2D40BE00FB0ECF /* DownloadWithCombine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B486D102D2D40BE00FB0ECF /* DownloadWithCombine.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		3B486D042D26DE7F00FB0ECF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3B486D072D26DE7F00FB0ECF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3B486D0E2D26DEE600FB0ECF /* SubscriberBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubscriberBootcamp.swift; sourceTree = "<group>"; };
+		3B486D102D2D40BE00FB0ECF /* DownloadWithCombine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithCombine.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				3B486D042D26DE7F00FB0ECF /* Assets.xcassets */,
 				3B486D062D26DE7F00FB0ECF /* Preview Content */,
 				3B486D0E2D26DEE600FB0ECF /* SubscriberBootcamp.swift */,
+				3B486D102D2D40BE00FB0ECF /* DownloadWithCombine.swift */,
 			);
 			path = "combine-swiftui";
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3B486D032D26DE7D00FB0ECF /* ContentView.swift in Sources */,
+				3B486D112D2D40BE00FB0ECF /* DownloadWithCombine.swift in Sources */,
 				3B486D012D26DE7D00FB0ECF /* combine_swiftuiApp.swift in Sources */,
 				3B486D0F2D26DEE600FB0ECF /* SubscriberBootcamp.swift in Sources */,
 			);
